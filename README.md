@@ -91,4 +91,4 @@ The [program](esp12-temperature-gauge.ino) is very straightforward ans self-expl
 
 ## STL
 
-See [STL][stl] directory. Note these files are not intened to be printed directly; many trial and error are involved.
+See [STL](stl) directory. Note these files are not intened to be printed directly; many trial and error are involved.
